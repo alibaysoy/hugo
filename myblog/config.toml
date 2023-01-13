@@ -1,0 +1,4 @@
+baseURL = 'http://alibaysoy.github.io/'
+languageCode = 'en-us'
+title = 'My 1st blog'
+theme = 'hello-friend'
